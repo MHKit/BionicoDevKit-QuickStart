@@ -45,6 +45,8 @@ to easily install modules on a linux based ARM hardware.
 First follow the instructions [here](https://github.com/MHKit/BionicoDevKit-QuickStart/blob/master/RASPBIAN.md),
 and then install the rotonde CLI by following [these instructions](https://github.com/HackerLoop/rotonde-cli/blob/master/README.md) (just keep in mind that the raspberrypi is now called `bionicodevkit.local` instead of `raspberrypi.local`).
 
+_Work in progress, comming soon_
+
 ## First contact
 
 This first contact aims to show the most basic usage to the Dek kit, no

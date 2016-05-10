@@ -29,6 +29,5 @@ typing)
 - Select `Expand filesystem`
 - Select `Advanced Options` then `Hostname` then `Ok`, then enter the
   name `bionicodevkit`
-a number)
 - Now goto the `Finish` button by pressing Tab twice
 - Select `Yes` to reboot
